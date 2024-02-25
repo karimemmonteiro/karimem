@@ -5,21 +5,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimemmonteiro&locale=pt-br&theme=radical&show_icons=true&layout=compact">
 </div>
 <div style="text-align: center; padding-top: 10px">
-<picture >
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img style="border: 1px solid white; border-radius: 5px"
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+
 </div>
+<img align="right" src="https://raw.githubusercontent.com/karimemmonteiro/karimemmonteiro/main/imagem.svg" width="300"/>
     
 # 📊 Tecnologias
 <p style="text-align: center; padding-top: 10px">
