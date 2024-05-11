@@ -22,6 +22,10 @@
 
 # 📫 Contate-me
 <div style="display: grid; grid-auto-flow: column; justify-content: center; gap: 10px">
+    <a href="https://api.whatsapp.com/send?phone=92982540365" target="_blank">
+  <img style="border-radius: 5px" src="https://img.shields.io/badge/-WhatsApp-%25B5FF00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank">
+</a>
+
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCcaix0mySnVeBlbo7kO6eyg)" target="_blank">
     <img style="border-radius: 5px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
